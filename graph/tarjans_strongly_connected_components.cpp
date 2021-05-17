@@ -5,7 +5,8 @@
 
  * Completed: 
  
- * Description: tarjans_algorithm
+ * Description: tarjans_algorithm for scc   https://www.youtube.com/watch?v=wUgWX0nc4NY
+ 				  for articulation point https://www.youtube.com/watch?v=2kREIkF9UAs&t=859s
  				it is a point that disconnects
  				the graph on removal
 
