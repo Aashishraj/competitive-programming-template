@@ -6,7 +6,7 @@
  * Completed: 
  
  * Description: Strongly connected components 
-                kausaraju's algo, 
+                kausaraju's algo, https://www.youtube.com/watch?v=RpgcYiky7uw&t=190s
 
  */
 
