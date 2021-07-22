@@ -6,8 +6,7 @@
  * Completed: 
  
  * Description: https://www.youtube.com/watch?v=7GoDDj3onfI&t=110s
- 				finding shortest distance between
- 				any two nodes
+ 				finding shortest distance from one vertex to all other vertices
 
  				Find and print the shortest distance from the source vertex 
  				(i.e. Vertex 0) to all other vertices (including source vertex also)
