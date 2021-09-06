@@ -20,15 +20,15 @@ void bfs(vector<int> edges[],int sv,bool visited[]){
     q.push(sv);
     visited[sv]=true;
     while(!q.empty()){
-		int element=q.front();
+	int element=q.front();
         q.pop();
         cout<<element<<" ";
         for(int i=0;i<edges[element].size();i++){
-			if(!visited[edges[element][i]]){
-                q.push(edges[element][i]);
-                //avoid adding multiple neighbours
-                visited[edges[element][i]]=true;
-            }
+		if(!visited[edges[element][i]]){
+			q.push(edges[element][i]);
+			//avoid adding multiple neighbours
+			visited[edges[element][i]]=true;
+            	}
         }
     }
 }
